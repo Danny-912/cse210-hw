@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Hello World! This is the Journal Project.");
 
-        / Journal Program - W02 Project
+        // Journal Program - W02 Project
 // This program helps users record daily journal entries using random prompts.
 // It supports writing, displaying, saving, and loading journal entries.
 
